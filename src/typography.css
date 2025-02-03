@@ -1,0 +1,64 @@
+body {
+    font-size: 76%;
+    font-family: cursive;
+    line-height: 5em;
+}
+
+body * {
+    font-size: 1.1em;
+}
+
+a {
+    font-weight: bold;
+    text-decoration: none;
+}
+
+header nav {
+    font-family: " Montserrat", "helvetica", "arial", ;
+    padding: 5px 5px 5px 5px;
+    margin: 5px;
+}
+
+header nav a {
+    text-decoration: overline;
+    font-weight: bold;
+    padding: 5px 5px 5px 5px;
+    margin: 40px;
+}
+
+article {
+    line-height: 1.8em;
+}
+
+p {
+    margin: 1em 0;
+    font-size: 2em;
+}
+
+h1 {
+    font-size: 1em;
+    font-family: " Montserrat", "helvetica", "arial", ;
+    font-weight: bold;
+}
+
+#imagegallery {
+    list-style-type: none;
+}
+
+textarea {
+    font-family: "helvetica", "arial", sans-serif;
+}
+
+#quote {
+    color: oldlace;
+    background-color: midnightblue;
+    font-size: 1.8em;
+    text-align: center;
+}
+
+#author {
+    color: black;
+    background-color: transparent;
+    font-size: 1.8em;
+    text-align: center;
+}
